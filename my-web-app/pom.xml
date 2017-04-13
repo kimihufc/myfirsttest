@@ -17,6 +17,6 @@
   </dependencies>
   <build>
     <finalName>my-web-app</finalName>
+	 <defaultGoal>compile</defaultGoal>
   </build>
-  <defaultGoal>compile</defaultGoal>
 </project>
