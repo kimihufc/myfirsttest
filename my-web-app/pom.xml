@@ -18,4 +18,5 @@
   <build>
     <finalName>my-web-app</finalName>
   </build>
+  <defaultGoal>compile</defaultGoal>
 </project>
